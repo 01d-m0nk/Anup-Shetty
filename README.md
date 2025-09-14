@@ -54,4 +54,3 @@
 
 ### 🚀 Featured Projects  
 - [**AI Mock Interview App**](https://github.com/01d-m0nk/Intelli-Mock-Talk) – AI-based mock interview platform  
-- [**Alcohol E-commerce Website**](https://github.com/01d-m0nk/alcohol-shop) – Full-stack MERN e-commerce project  
