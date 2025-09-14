@@ -40,6 +40,8 @@
 <img src="https://img.shields.io/badge/TailwindCSS-Utility--First-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-API%20Testing-orange?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-Hosting-yellow?style=for-the-badge&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-Editor-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebStorm-IDE-000000?style=for-the-badge&logo=webstorm&logoColor=white"/>
 </p>
 
 ---
@@ -53,4 +55,4 @@
 ---
 
 ### 🚀 Featured Projects  
-- [**AI Mock Interview App**](https://github.com/01d-m0nk/Intelli-Mock-Talk) – AI-based mock interview platform  
+- [**AI Mock Interview App**](https://github.com/01d-m0nk/Intelli-Mock-Talk) – AI-based mock interview platform
