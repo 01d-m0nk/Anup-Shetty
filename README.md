@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7EF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Anup+Shetty;Frontend+Developer;MERN+Stack+Learner;Always+learning+new+things" alt="Typing SVG Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7EF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Anup+Shetty;MERN+Stack+Learner;Always+learning+new+things" alt="Typing SVG Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Anup Shetty</h1>
