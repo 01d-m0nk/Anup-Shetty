@@ -1,4 +1,8 @@
-<!-- Header with waving hand GIF -->
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7EF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Anup+Shetty;Frontend+Developer;MERN+Stack+Learner;Always+learning+new+things" alt="Typing SVG Banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Anup Shetty</h1>
 <h3 align="center">Frontend Developer | MERN Stack Learner | Tech Enthusiast</h3>
 
@@ -50,3 +54,4 @@
 
 ### 🚀 Featured Projects  
 - [**AI Mock Interview App**](https://github.com/01d-m0nk/Intelli-Mock-Talk) – AI-based mock interview platform  
+- [**Alcohol E-commerce Website**](https://github.com/01d-m0nk/alcohol-shop) – Full-stack MERN e-commerce project  
