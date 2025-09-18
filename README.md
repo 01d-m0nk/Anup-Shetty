@@ -14,7 +14,7 @@
 
 ### 🌟 About Me
 - 🌱 Currently learning **Python**  
-- 💬 Ask me about **JavaScript, React, HTML, CSS, Python**  
+- 💬 Ask me about **JavaScript, React, HTML, CSS, Python, Django, Flask, REST API, Flutter**  
 - 📫 Reach me at **anupshetty179@gmail.com**  
 - 📄 [Check out my Resume](https://drive.google.com/file/d/1I3tncMALUE5fDo5CO0ekcc2iTa0tzAkN/view?usp=sharing)  
 - ⚡ Fun fact: *I think I am funny 😅*  
@@ -39,14 +39,19 @@
 <img src="https://img.shields.io/badge/TailwindCSS-Utility--First-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
 <!-- Backend -->
-<img src="https://img.shields.io/badge/Node.js-Express-green?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-Web%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-Microframework-black?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST-API-green?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+<!-- Mobile -->
+<img src="https://img.shields.io/badge/Flutter-Cross%20Platform-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 
 <!-- Databases -->
 <img src="https://img.shields.io/badge/MongoDB-Atlas-brightgreen?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 <!-- Other Tools -->
-<img src="https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-Hosting-yellow?style=for-the-badge&logo=firebase&logoColor=white"/>
 
 <!-- IDEs -->
@@ -59,11 +64,11 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=01d-m0nk&show_icons=true&theme=radical" alt="Anup's GitHub stats" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=01d-m0nk&theme=radical" alt="GitHub Streak" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=01d-m0nk&show_icons=true&theme=radical&cache_seconds=86400" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=01d-m0nk&theme=radical" />
 </p>
 
 ---
 
 ### 🚀 Featured Projects  
-- [**AI Mock Interview App**](https://github.com/01d-m0nk/Intelli-Mock-Talk) – AI-based mock interview platform  
+- [**AI Mock Interview App**](https://github.com/01d-m0nk/Intelli-Mock-Talk) – AI-based mock interview platform built with **React, Python (Django/Flask), REST API, and MongoDB**
