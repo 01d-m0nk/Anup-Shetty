@@ -44,9 +44,6 @@
 <img src="https://img.shields.io/badge/Flask-Microframework-black?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST-API-green?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
-<!-- Mobile -->
-<img src="https://img.shields.io/badge/Flutter-Cross%20Platform-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-
 <!-- Databases -->
 <img src="https://img.shields.io/badge/MongoDB-Atlas-brightgreen?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -64,8 +61,8 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=01d-m0nk&show_icons=true&theme=radical&cache_seconds=86400" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=01d-m0nk&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=01d-m0nk&show_icons=true&theme=radical&cache_seconds=86400" alt="Anup's GitHub stats" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=01d-m0nk&theme=radical" alt="GitHub Streak" height="160"/>
 </p>
 
 ---
