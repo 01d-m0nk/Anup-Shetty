@@ -68,4 +68,6 @@
 ---
 
 ### 🚀 Featured Projects  
-- [**AI Mock Interview App**](https://github.com/01d-m0nk/Intelli-Mock-Talk) – AI-based mock interview platform built with **React, Python (Django/Flask), REST API, and MongoDB**
+- [**AI Mock Interview App**](https://github.com/01d-m0nk/Intelli-Mock-Talk) – AI-based mock interview platform
+- [**SCHOLARSHIP-PORTAL**](https://github.com/01d-m0nk/Scholarship-Portal.git) – AI-based mock interview platform
+
