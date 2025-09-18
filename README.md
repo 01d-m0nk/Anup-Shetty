@@ -13,8 +13,8 @@
 ---
 
 ### 🌟 About Me
-- 🌱 Currently learning **Python**  
-- 💬 Ask me about **JavaScript, React, HTML, CSS, Python, Django, Flask, REST API, Flutter**  
+- 🌱 Currently learning **FLASK**  
+- 💬 Ask me about **JavaScript, React, HTML, CSS, Python, Django, Flask**  
 - 📫 Reach me at **anupshetty179@gmail.com**  
 - 📄 [Check out my Resume](https://drive.google.com/file/d/1I3tncMALUE5fDo5CO0ekcc2iTa0tzAkN/view?usp=sharing)  
 - ⚡ Fun fact: *I think I am funny 😅*  
