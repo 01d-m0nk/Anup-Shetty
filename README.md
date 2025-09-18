@@ -1,10 +1,10 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7EF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Anup+Shetty;MERN+Stack+Learner;Always+learning+new+things" alt="Typing SVG Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7EF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Anup+Shetty;Always+learning+new+things" alt="Typing SVG Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Anup Shetty</h1>
-<h3 align="center">Frontend Developer | MERN Stack Learner | Tech Enthusiast</h3>
+<h3 align="center">Frontend Developer | Python Developer | Tech Enthusiast</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF">
@@ -13,8 +13,8 @@
 ---
 
 ### 🌟 About Me
-- 🌱 Currently learning **MERN Stack**  
-- 💬 Ask me about **JavaScript, React, HTML, CSS**  
+- 🌱 Currently learning **Python**  
+- 💬 Ask me about **JavaScript, React, HTML, CSS, Python**  
 - 📫 Reach me at **anupshetty179@gmail.com**  
 - 📄 [Check out my Resume](https://drive.google.com/file/d/1I3tncMALUE5fDo5CO0ekcc2iTa0tzAkN/view?usp=sharing)  
 - ⚡ Fun fact: *I think I am funny 😅*  
@@ -47,7 +47,6 @@
 
 <!-- Other Tools -->
 <img src="https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-API%20Testing-orange?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-Hosting-yellow?style=for-the-badge&logo=firebase&logoColor=white"/>
 
 <!-- IDEs -->
