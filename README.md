@@ -68,6 +68,6 @@
 ---
 
 ### 🚀 Featured Projects  
-- [**AI Mock Interview App**](https://github.com/01d-m0nk/Intelli-Mock-Talk) – AI-based mock interview platform
+- [**AI Mock Interview App**](https://ai-mock-interview-react-dac2e.web.app/) – AI-based mock interview platform
 - [**SCHOLARSHIP-PORTAL**](https://github.com/01d-m0nk/Scholarship-Portal.git) – AI-based mock interview platform
 
