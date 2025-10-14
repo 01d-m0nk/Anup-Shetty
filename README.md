@@ -71,5 +71,5 @@
 ### 🚀 Featured Projects  
 - [**AI Mock Interview App**](https://ai-mock-interview-react-dac2e.web.app/) – Developed an AI-powered platform for practicing MOOC-style tests and interviews with real-time feedback, secure login, and an interactive user experience to help learners build confidence and improve performance.
 - [**Smart Village Development**](https://github.com/01d-m0nk/Scholarship-Portal.git) – Smart Village Development System is a Django-based web platform that digitalizes rural administrative services, enabling     residents to request documents online and administrators to manage and approve them via a secure dashboard.
-- [**SCHOLARSHIP-PORTAL**](https://github.com/01d-m0nk/Scholarship-Portal.git) – 
+- [**SCHOLARSHIP-PORTAL**](https://github.com/01d-m0nk/Scholarship-Portal.git) – Scholarship Management System is a web-based PHP & MySQL application that enables students to apply for scholarships online and allows administrators to manage applications, student records, and approvals efficiently. It reduces paperwork, ensures transparency, and provides a secure, user-friendly interface.
 
