@@ -90,7 +90,7 @@
 </tr>
 
 <tr style="background:#ffffff;">
-<td style="padding:8px;"><b><a href="https://github.com/01d-m0nk/Scholarship-Portal.git" style="color:#0d6efd;">Smart Village Development</a></b></td>
+<td style="padding:8px;"><b><a href="https://github.com/01d-m0nk/Smart-Village-Development.git" style="color:#0d6efd;">Smart Village Development</a></b></td>
 <td style="padding:8px;">Django platform digitalizing rural services with admin dashboards.</td>
 <td style="padding:8px;">
 <img src="https://img.shields.io/badge/Django-WebFramework-092E20?style=flat-square&logo=django&logoColor=white"/> 
