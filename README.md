@@ -69,7 +69,47 @@
 ---
 
 ### 🚀 Featured Projects  
-- [**AI Mock Interview App**](https://ai-mock-interview-react-dac2e.web.app/) – Developed an AI-powered platform for practicing MOOC-style tests and interviews with real-time feedback, secure login, and an interactive user experience to help learners build confidence and improve performance.
-- [**Smart Village Development**](https://github.com/01d-m0nk/Scholarship-Portal.git) – Smart Village Development System is a Django-based web platform that digitalizes rural administrative services, enabling     residents to request documents online and administrators to manage and approve them via a secure dashboard.
-- [**SCHOLARSHIP-PORTAL**](https://github.com/01d-m0nk/Scholarship-Portal.git) – Scholarship Management System is a web-based PHP & MySQL application that enables students to apply for scholarships online and allows administrators to manage applications, student records, and approvals efficiently. It reduces paperwork, ensures transparency, and provides a secure, user-friendly interface.
+
+<div align="center">
+
+<table>
+<tr style="background:#0d6efd; color:white;">
+<th style="padding:8px;">Project</th>
+<th style="padding:8px;">Description</th>
+<th style="padding:8px;">Tech Stack</th>
+</tr>
+
+<tr style="background:#f5f5f5;">
+<td style="padding:8px;"><b><a href="https://ai-mock-interview-react-dac2e.web.app/" style="color:#0d6efd;">AI Mock Interview App</a></b></td>
+<td style="padding:8px;">AI platform for practicing tests and interviews with real-time feedback.</td>
+<td style="padding:8px;">
+<img src="https://img.shields.io/badge/React-18-blue?style=flat-square&logo=react&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Firebase-Hosting-yellow?style=flat-square&logo=firebase&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=flat-square&logo=javascript&logoColor=black"/>
+</td>
+</tr>
+
+<tr style="background:#ffffff;">
+<td style="padding:8px;"><b><a href="https://github.com/01d-m0nk/Scholarship-Portal.git" style="color:#0d6efd;">Smart Village Development</a></b></td>
+<td style="padding:8px;">Django platform digitalizing rural services with admin dashboards.</td>
+<td style="padding:8px;">
+<img src="https://img.shields.io/badge/Django-WebFramework-092E20?style=flat-square&logo=django&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Python-3.9-blue?style=flat-square&logo=python&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/MySQL-Database-blue?style=flat-square&logo=mysql&logoColor=white"/>
+</td>
+</tr>
+
+<tr style="background:#f5f5f5;">
+<td style="padding:8px;"><b><a href="https://github.com/01d-m0nk/Scholarship-Portal.git" style="color:#0d6efd;">Scholarship Portal</a></b></td>
+<td style="padding:8px;">PHP & MySQL app for managing scholarship applications efficiently.</td>
+<td style="padding:8px;">
+<img src="https://img.shields.io/badge/PHP-7.4-blue?style=flat-square&logo=php&logoColor=white"/> 
+<img src="https://img.shields.io/badge/MySQL-Database-blue?style=flat-square&logo=mysql&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/HTML5-Orange?style=flat-square&logo=html5&logoColor=white"/> 
+<img src="https://img.shields.io/badge/CSS3-Blue?style=flat-square&logo=css3&logoColor=white"/>
+</td>
+</tr>
+
+</table>
+</div>
 
