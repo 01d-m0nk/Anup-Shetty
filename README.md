@@ -16,7 +16,7 @@
 - 🌱 Currently learning **FLASK**  
 - 💬 Ask me about **JavaScript, React, HTML, CSS, Python, Django, Flask**  
 - 📫 Reach me at **anupshetty179@gmail.com**  
-- 📄 [Check out my Resume](https://drive.google.com/file/d/1I3tncMALUE5fDo5CO0ekcc2iTa0tzAkN/view?usp=sharing)
+- 📄 [Check out my Resume](https://drive.google.com/file/d/1jNJMYvpkbm0joyIb0Y6_DrM5vEVrsuCr/view?usp=sharing)
 - 🌐 [Visit my Portfolio](https://01d-m0nk.github.io/My-portfolio/)  
 - ⚡ Fun fact: *I think I am funny 😅*  
 
